@@ -8,7 +8,7 @@ body {
 }
 
 .typing {
-  width: 50%;
+  width: 40%;
   font-family: 'Roboto Mono', sans-serif;
   font-size: 30px;
   color: greenyellow;
@@ -43,4 +43,9 @@ body {
   70%, 100% {
     opacity: 1;
   }
+}
+
+#robot {
+  height: 50vmin;
+  margin: auto;
 }

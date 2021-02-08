@@ -44,3 +44,4 @@ const typing = (newTime) => {
 }
 
 typing();
+
